@@ -1,6 +1,7 @@
 data
 chroma-viewer
 myenv
+windowsenv
 
 __pycache__
 .DS_Store
