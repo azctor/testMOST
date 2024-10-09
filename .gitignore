@@ -1,0 +1,7 @@
+data
+chroma-viewer
+myenv
+
+__pycache__
+.DS_Store
+environment_python/
