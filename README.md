@@ -70,3 +70,17 @@ python crawler.py
 ```
 git pull
 ```
+
+小筆記：：
+
+啟動虛擬環境：
+
+Windows：
+myenv\Scripts\activate
+
+macOS/Linux：
+source myenv/bin/activate
+
+更新requirement.txt
+pip install -r requirement.txt
+
