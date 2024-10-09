@@ -79,7 +79,7 @@ Windows：
 windowsenv\Scripts\activate
 
 macOS/Linux：
-source myenv/bin/activate
+source macenv/bin/activate
 
 更新requirement.txt
 pip install -r requirement.txt
